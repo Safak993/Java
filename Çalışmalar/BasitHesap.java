@@ -1,3 +1,5 @@
+package Çalışmalar;
+
 import javax.swing.JOptionPane;
 
 public class BasitHesap {

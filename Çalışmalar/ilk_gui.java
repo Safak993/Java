@@ -1,5 +1,6 @@
+package Çalışmalar;
+
 import javax.swing.*;
-import java.awt.*;
 
 public class ilk_gui {
     static int sayi = 0;
