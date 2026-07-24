@@ -7,7 +7,7 @@ import java.awt.*;
 import java.util.Base64;
 
 public class Safak993Vault extends JFrame {
-    // Bu senin gizli anahtarın. Gerçek uygulamada bunu kimse bilmemeli!
+    
     private static final String SECRET_KEY = "Safak993SpecialK"; // 16 karakter olmalı
 
     public Safak993Vault() {
